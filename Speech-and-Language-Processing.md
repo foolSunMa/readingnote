@@ -1,6 +1,6 @@
 # 自然语言综述读书笔记
 ### 原始链接：https://web.stanford.edu/~jurafsky/slp3/
-## 第十章
+## 第十章 大语言模型
 #### 关键词：
 ##### 预训练(pretrain):
 ##### 大语言模型(Large language model):
