@@ -1,7 +1,14 @@
 # 自然语言综述读书笔记
 ### 原始链接：https://web.stanford.edu/~jurafsky/slp3/
 ## 第十章
-#### 关键词：pretrain，Large language model，transformer，genrative AI，greedy decoding，sampling、summarization
+#### 关键词：
+##### 预训练(pretrain):
+##### 大语言模型(Large language model):
+##### 转换器(transformer):
+##### 生成式AI(genrative AI):
+##### 贪心解码策略(greedy decoding):
+##### 采样(sampling):
+##### 摘要任务(summarization):
 ### 10.1 基于transformers的大语言模型
 ### 10.2 大模型生成任务中的采样问题
 #### 10.2.1 Top-k采样
